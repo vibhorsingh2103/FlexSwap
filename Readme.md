@@ -13,11 +13,11 @@ FlexSwap is a decentralized exchange (DEX) built on NeoX blockchain. It allows u
 ## Contract Details
 
 - **Contract Address**: `0xd2408518e3e1675A9FA3791f3895ECad4aD1689A`
-- **Network**: Neo X Testnet T4
+- **Network**: Neo X Mainnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0xd2408518e3e1675A9FA3791f3895ECad4aD1689A)
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0xd2408518e3e1675A9FA3791f3895ECad4aD1689A)
 - **Coin Used**: GAS
 ## How to Use
 
